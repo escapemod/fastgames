@@ -1,4 +1,4 @@
-# fastgames
+# Fast Games
 
 * Mirror's Edge | Catalyst
 * Apex: Legends
