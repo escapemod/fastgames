@@ -3,5 +3,6 @@
 * Mirror's Edge | Catalyst
 * Apex: Legends
 * Thumper
-* Infamous: Second Son
-* DMC
+
+[comment]: # (* Infamous: Second Son)
+[comment]: # (* DMC)
